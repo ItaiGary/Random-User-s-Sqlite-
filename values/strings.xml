@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MySql</string>
+
+    <string name="plus">+</string>
+    <string name="postcode">post code</string>
+    <string name="your_name">name</string>
+    <string name="your_state">state</string>
+    <string name="your_street">street</string>
+    <string name="your_gender">gender</string>
+    <string name="clear_all">clear all</string>
+    <string name="update">UPDATE</string>
+</resources>
